@@ -1,7 +1,10 @@
 # Tugas_Android_2
 
 # Demo Aplikasi
-https://github.com/DimasF3009/Tugas_Android_2/assets/115356128/c554b1e7-0aee-4132-a2c2-40d7416a5656
+
+
+https://github.com/faizdzakiramadhani/Pemrogmobile10/assets/115913915/58f19339-5c76-4bf9-98d6-f134ce7848f4
+
 
 
 
